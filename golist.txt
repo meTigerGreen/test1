@@ -127,6 +127,9 @@ tencent.com
 green2ray.top
 imagetwist.com
 mihoyo.com
+hoyolab.com
+m.hoyolab.com
+hoyoverse.com
 genshin.hoyoverse.com
 honkai.hoyoverse.com
 zenless.hoyoverse.com

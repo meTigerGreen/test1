@@ -1,4 +1,6 @@
 google.com
+drive.google.com
+accounts.google.com
 youtube.com
 telegram.org
 pikabu.ru
@@ -48,7 +50,7 @@ discord.com
 roblox.com
 minecraft.net
 epicgames.com
-play.google.com
+play.
 appstore.com
 ru.wikipedia.org
 en.wikipedia.org

@@ -3,6 +3,8 @@ drive.google.com
 accounts.google.com
 youtube.com
 studio.youtube.com
+aeza.net
+legacy.aeza.net
 telegram.org
 pikabu.ru
 instagram.com

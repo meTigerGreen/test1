@@ -2,6 +2,7 @@ google.com
 drive.google.com
 accounts.google.com
 youtube.com
+studio.youtube.com
 telegram.org
 pikabu.ru
 instagram.com

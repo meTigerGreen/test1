@@ -6,3 +6,6 @@ fusionpos.ru
 tracker.mywaifu.best
 tracker.opentrackr.org
 tracker.openbittorrent.com
+sqlmap.org
+sycret.ru
+api2.sycret.ru
